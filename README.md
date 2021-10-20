@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anthony-Asamoah
+# 👋 Hi, I’m Anthony Asamoah
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with other creators
 - 📫 How to reach me: [Telegram](https://telegram.me/sean_or_tony) or [email](mailto:anthonyasamoah48@gmail.com)
