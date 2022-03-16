@@ -24,7 +24,7 @@ def main(Val):
 		a = int(Val[i-2]) + int(Val[i-1]) + int(Val[i])
 		b = int(Val[i-1]) + int(Val[i]) + int(Val[i+1])
 		
-		if a > b:
+		if a < b:
 			increment += 1
 			# print("increase", increment)
 		elif a == b:
